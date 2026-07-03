@@ -1,0 +1,33 @@
+{
+    "name": "Velocity Light",
+
+    "colors": {
+        "primary": "#2563EB",
+        "secondary": "#3B82F6",
+        "accent": "#0891B2",
+
+        "background": "#FFFFFF",
+        "surface": "#F3F3F3",
+        "sidebar": "#ECECEC",
+        "statusBar": "#007ACC",
+
+        "text": "#1F2937",
+        "textSecondary": "#4B5563",
+        "textDisabled": "#9CA3AF",
+
+        "selection": "#ADD6FF",
+        "currentLine": "#F5F5F5",
+
+        "lineNumber": "#6B7280",
+        "lineNumberCurrent": "#111827",
+
+        "cursor": "#111827",
+
+        "border": "#D1D5DB",
+
+        "success": "#16A34A",
+        "warning": "#D97706",
+        "error": "#DC2626",
+        "info": "#0284C7"
+    }
+}

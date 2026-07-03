@@ -1,0 +1,33 @@
+{
+    "name": "Velocity Dark",
+
+    "colors": {
+        "primary": "#2563EB",
+        "secondary": "#3B82F6",
+        "accent": "#06B6D4",
+
+        "background": "#1E1E1E",
+        "surface": "#252526",
+        "sidebar": "#2D2D30",
+        "statusBar": "#007ACC",
+
+        "text": "#FFFFFF",
+        "textSecondary": "#CCCCCC",
+        "textDisabled": "#808080",
+
+        "selection": "#264F78",
+        "currentLine": "#2A2D2E",
+
+        "lineNumber": "#858585",
+        "lineNumberCurrent": "#FFFFFF",
+
+        "cursor": "#FFFFFF",
+
+        "border": "#3C3C3C",
+
+        "success": "#16A34A",
+        "warning": "#F59E0B",
+        "error": "#DC2626",
+        "info": "#0EA5E9"
+    }
+}
